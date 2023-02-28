@@ -2,7 +2,7 @@
 
  
 
-name: Deploy HTML Files to AppService - CMST385
+name: Deploy HTML Files to AppServiceCMST385
 
 on:
 
@@ -30,7 +30,7 @@ jobs:
 
       
 
-        app-name: 'CMST385-hvasquezmartinez'
+        app-name: '$CMST385-hvasquezmartinez'
 
         slot-name: 'production'
 
