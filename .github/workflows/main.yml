@@ -30,7 +30,7 @@ jobs:
 
       
 
-        app-name: '$CMST385-hvasquezmartinez'
+        app-name: 'CMST385-hvasquezmartinez\$CMST385-hvasquezmartinez'
 
         slot-name: 'production'
 
