@@ -30,7 +30,7 @@ jobs:
 
       
 
-        app-name: 'CMST385-hvasquezmartinez - FTP'
+        app-name: 'CMST385-hvasquezmartinez'
 
         slot-name: 'production'
 
