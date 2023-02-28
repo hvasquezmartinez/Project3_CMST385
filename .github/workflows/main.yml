@@ -36,4 +36,4 @@ jobs:
 
       
 
-        publish-profile: APPSERVICECMST385
+        publish-profile: ${{ secrets.AppServiceCMST385 }}
